@@ -1,6 +1,8 @@
 # C Programming
+Hello!!👋 
+   myself Suvam Dey
 
-A collection of C programming programs, examples, and lab assignments created during my B.Tech journey. This repository is intended for learning the fundamentals of C programming and practicing problem-solving.
+Here I have provided a lot of collection of C programming programs, examples, and lab assignments created during my B.Tech journey. This repository is intended for learning the fundamentals of C programming and practicing problem-solving.
 
 ## 📚 Topics Covered
 
