@@ -1,14 +1,14 @@
 
 #include <stdio.h>
 
-void swap(int a, int b)
+void swap(int x, int y)
 {
-    a = a + b;
-    b = a - b;
-    a = a - b;
+    x = x + y;
+    y = x - y;
+    x = x - y;
 
     printf("After Swapping:\n");
-    printf("a = %d, b = %d", a, b);
+    printf("a = %d, b = %d", x, y);
 }
 
 int main()
