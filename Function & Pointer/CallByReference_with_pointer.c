@@ -1,0 +1,18 @@
+#include <stdio.h>
+void increment(int *p)
+{
+    (*p)++;
+}
+
+int main()
+{
+    int num = 5;
+    
+    printf("Before function call: %d\n", num);
+    
+    increment(&num);
+    
+    printf("After function call: %d\n", num);
+
+    return 0;
+}
