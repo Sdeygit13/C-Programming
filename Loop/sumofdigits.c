@@ -4,7 +4,7 @@ int main()
 {
     int n, sum = 0;
 
-    printf("Enter a four-digit number: ");
+    printf("Enter any digit of number: ");
     scanf("%d", &n);
 
     while (n > 0)
